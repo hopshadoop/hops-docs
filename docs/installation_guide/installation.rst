@@ -10,6 +10,7 @@ Installation
    platforms/baremetal.rst
    platforms/vagrant.rst
    platforms/cookbooks.rst
+   attributes_table.rst
    requirements.rst
    upgrades.rst
    hops-manual-installation-guide.rst
