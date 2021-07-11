@@ -9,8 +9,7 @@ Installation
    platforms/options.rst
    platforms/hopsworks-cloud-installer.rst
    platforms/hopsworks-installer.rst
-   platforms/aws-image.rst
-   platforms/karamel.rst	      
+   platforms/karamel.rst
    platforms/vagrant.rst
    platforms/custom.rst
    platforms/troubleshooting.rst
